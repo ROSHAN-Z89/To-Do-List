@@ -30,6 +30,14 @@ The app also uses browser **localStorage**, so your tasks remain saved even afte
 
 ---
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="todolist.png" alt="To-Do List Screenshot" width="500"/>
+</p>
+
+---
+
 ## 📦 Installation
 
 No special environment required — just a web browser!  
